@@ -1,0 +1,28 @@
+
+
+teacher by availability
+
+mobile filters whole page
+
+
+13-10-2021 (18:26 pm )
+done: 
+developed the cards for the Find Teacher by availability (Navbar left)
+todo:
+to implement desktop version and mobile version of Teacher By availability (to complete navbar)
+
+
+14-10-2021 (17:26 pm )
+done:
+developed the desktop website fully and mobile version left (filter button pressed)
+todo:
+started the filter button press for mobile 
+to make profile page 
+
+
+15-10-2021 (10:20 pm )
+done:
+developed full Find a Teacher By availability page (desktop and mobile)
+pushed the code to branch rakshit-dev
+todo:
+profile page left to be done.
